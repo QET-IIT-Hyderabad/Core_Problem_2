@@ -8,8 +8,8 @@ import qutip as qt
 ket_0 = ___ # TODO
 ket_1 = ___ # TODO
 
-sx = ___ # TODO
-sz = ___ # TODO
+sigma_x = ___ # TODO
+sigma_z = ___ # TODO
 
 P0_op = ket_0 * ket_0.dag()
 P1_op = ket_1 * ket_1.dag()
